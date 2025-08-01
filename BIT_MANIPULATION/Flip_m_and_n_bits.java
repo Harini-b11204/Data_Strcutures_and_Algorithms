@@ -1,3 +1,4 @@
+package BIT_MANIPULATION;
 import java.util.*;
 public class Flip_m_and_n_bits {
     public static void main(String[] args) {

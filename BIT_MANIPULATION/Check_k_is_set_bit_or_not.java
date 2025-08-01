@@ -1,8 +1,10 @@
+package BIT_MANIPULATION;
 import java.util.*;
-public class Count_set_bits {
+public class Check_k_is_set_bit_or_not {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
+        int k=sc.nextInt();
         sc.close();
         int count=0;
         for(int i=0;i<32;i++){
@@ -10,7 +12,11 @@ public class Count_set_bits {
                 count++;
             }
         }
-        System.out.println(count);
-
-    }
+        if(count>=k){
+            System.out.println("true");
+        }
+        else{
+            System.out.println("false");
+        }
+    } 
 }

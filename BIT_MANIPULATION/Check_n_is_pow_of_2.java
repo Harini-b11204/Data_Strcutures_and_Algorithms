@@ -1,3 +1,4 @@
+package BIT_MANIPULATION;
 import java.util.Scanner;
 public class Check_n_is_pow_of_2{
     public static void main(String[] args) {

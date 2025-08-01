@@ -1,3 +1,4 @@
+package BIT_MANIPULATION;
 import java.util.*; 
 public class Check_even_or_odd {
     public static void main(String[] args) {

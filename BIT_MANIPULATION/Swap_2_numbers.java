@@ -1,3 +1,4 @@
+package BIT_MANIPULATION;
 import java.util.*;
 public class Swap_2_numbers {
     public static void main(String[] args) {

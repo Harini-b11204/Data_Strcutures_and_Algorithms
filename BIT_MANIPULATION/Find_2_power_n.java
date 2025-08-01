@@ -1,3 +1,4 @@
+package BIT_MANIPULATION;
 import java.util.*;
 public class Find_2_power_n {
     public static void main(String[] args) {

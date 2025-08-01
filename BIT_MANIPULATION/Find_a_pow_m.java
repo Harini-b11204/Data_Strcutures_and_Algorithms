@@ -1,3 +1,4 @@
+package BIT_MANIPULATION;
 import java.util.*;
 public class Find_a_pow_m {
     public static void main(String[] args) {
