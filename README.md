@@ -36,3 +36,21 @@ Welcome to my DSA practice repo! This repo contains clean, beginner-to-intermedi
     ├── Flip_m_and_n_bits.java
     ├── Set_m_1s_and_n_0s.java
     └── Swap_2_numbers.java
+
+```
+## 🛠️ How to Run
+Make sure you have Java installed. Then:
+```bash
+javac FileName.java
+java FileName
+```
+
+## ✨ Why This Repo?
+
+This is part of my journey to master Data Structures & Algorithms in Java. These problems help build logic, optimize thinking, and prep for tech interviews and coding rounds.
+
+## 🌐 Let's Connect
+Feel free to fork, star ⭐ this repo or reach out for collabs!
+🔗 https://linkedin.com/in/harini-baskaran112
+
+🐙 GitHub: @Harini-b11204
