@@ -5,6 +5,7 @@ public class PrintAllSubsequences {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         if (!sc.hasNextInt()) {
+            sc.close();
             return;
         }
         int n = sc.nextInt();
