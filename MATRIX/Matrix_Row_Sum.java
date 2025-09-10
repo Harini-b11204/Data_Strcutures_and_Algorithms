@@ -1,4 +1,4 @@
-package ARRAYS;
+package MATRIX;
 import java.util.*;
 public class Matrix_Row_Sum {
     public static void main(String[] args) {
@@ -11,6 +11,10 @@ public class Matrix_Row_Sum {
         sc.close();
         int sum=0;
         ArrayList<Integer> al=new ArrayList<>();
-        for
+        for(int i=0;i<n;i++){
+            sum+=arr[i];
+            al.add(sum);
+        }
+        System.out.println(al);
     }
 }
