@@ -48,15 +48,15 @@ Open any topic folder and run .java files using your favorite IDE or CLI.
 
 Explore and contribute by adding your own problem solutions!
 
-##💡 Vision
+## 💡 Vision
 
 This project aims to evolve from a personal DSA practice space into a community-driven knowledge hub, featuring:
 
-Detailed problem explanations
+🔹Detailed problem explanations
 
-Interactive visualizations
+🔹Interactive visualizations
 
-AI-generated hints and step-by-step solutions
+🔹AI-generated hints and step-by-step solutions
 
 ⚡ Learning DSA isn’t just about solving problems — it’s about training your mind to think algorithmically.
 
