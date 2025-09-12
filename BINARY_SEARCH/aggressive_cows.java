@@ -1,4 +1,3 @@
-package BINARY_SEARCH;
 import java.util.*;
 public class aggressive_cows {
     Scanner sc=new Scanner(System.in);

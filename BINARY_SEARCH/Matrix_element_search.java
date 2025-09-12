@@ -1,4 +1,3 @@
-package BINARY_SEARCH;
 import java.util.*;
 public class Matrix_element_search {
     Scanner sc=new Scanner(System.in);

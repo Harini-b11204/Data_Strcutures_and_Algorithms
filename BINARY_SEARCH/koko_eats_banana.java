@@ -1,4 +1,3 @@
-package BINARY_SEARCH;
 import java.util.*;
 public class koko_eats_banana {
     public static void main(String[] args) {
